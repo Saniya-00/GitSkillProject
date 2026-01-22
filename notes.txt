@@ -1,1 +1,2 @@
 This project demonstrates Git using VS Code.
+Feature-update branch adds additional project documentation.
